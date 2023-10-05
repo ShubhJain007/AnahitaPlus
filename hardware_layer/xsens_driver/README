@@ -1,1 +1,2 @@
 # ROS Driver for XSens MT/MTi/MTi-G devices.
+ sudo chmod 777 /dev/ttyUSB0 before running the xsens node
